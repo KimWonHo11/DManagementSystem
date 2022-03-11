@@ -1,5 +1,5 @@
 
-public class hellod {
+public class DManager {
 	public static void main(String[] args) {
            System.out.println("Hello World!");
 	}
