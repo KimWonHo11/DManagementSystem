@@ -1,2 +1,2 @@
-# DManagementSystem
+# HOGYMManagementSystem
 Dproject
